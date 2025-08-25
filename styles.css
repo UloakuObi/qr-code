@@ -25,11 +25,12 @@ body {
     display: block;
 }
 
-h3{
+h1{
     font-weight: 700px;
     color: hsl(218, 44%, 22%);
     margin-bottom: 0;
     padding: 0 30px;
+    font-size: 19px;
 }
 
 p{
